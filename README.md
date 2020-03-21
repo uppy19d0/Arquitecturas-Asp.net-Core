@@ -1,11 +1,7 @@
 # Onion-Architecture
-Asp.NET Web Application created using Onion Architecture. 
+Este proyecto esta elaborando por Luis Aneuris Tavarez De Jesus #2018-6927
 
-Sample of code is only for demonstrating purposes. 
-It can be used as skeleton for any project in case Onion Architecture is approved.
+Este es un ejemplo de una patron de diseño OnionArchitecture o Arquitectura de Cebolla,esta es un forma de trabaja por capas como bien dice su nombre que representa una clasificacion estructural de definir un proyecto de software
 
-You can read more about Onion architecture
+ITLA 2020 
 
-[Here](https://www.codeguru.com/csharp/csharp/cs_misc/designtechniques/understanding-onion-architecture.html)
-
-[And here](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
